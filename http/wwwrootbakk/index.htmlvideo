@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>我的首页</title>
+</head>
+<body>
+	<h1>欢迎来到我的首页</h1>
+</body>
+	<head>
+
+ <video width="320" height="240" controls="controls">
+   <source src="movie.ogg" type="video/ogg">
+     <source src="video/1.mp4" type="video/mp4">
+	 Your browser does not support the video tag.
+	 </video>
+</html>
